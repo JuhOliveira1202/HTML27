@@ -1,0 +1,47 @@
+@charset "utf-8";
+.col-md-4 .thumbnail img {
+    background-color: #FF0004;
+}
+#carousel1 .carousel-indicators .active {
+}
+body p {
+}
+.container {
+    background-color: #F41D20;
+}
+.container-fluid .navbar-header .navbar-brand {
+    color: #000000;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: #000000;
+}
+.container h1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+.container footer {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #000000;
+}
+.row .col-md-4 h1 {
+    text-align: center;
+}
+.row .col-md-4 h1 {
+    text-align: center;
+}
+body p {
+    color: #FFFFFF;
+    text-align: center;
+}
+.thumbnail .caption p {
+    color: #000000;
+    text-align: left;
+}
+.row p {
+    color: #F41D20;
+}
+.col-md-4 .thumbnail p {
+}
